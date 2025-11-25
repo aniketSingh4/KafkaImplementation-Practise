@@ -1,0 +1,2 @@
+//If we want to send an object from producer and consume then we have to use serialization 
+//and deserialization configuration into application.properties file.
